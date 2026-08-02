@@ -1,0 +1,4 @@
+//! Rust policy compiler that turns domain, IP, and application rules into platform-neutral network plans for the Lattice networking stack.
+//!
+//! This crate is a bootstrap placeholder; no public API has been published
+//! yet.

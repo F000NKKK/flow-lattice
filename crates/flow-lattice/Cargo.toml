@@ -1,0 +1,15 @@
+[package]
+name = "flow-lattice"
+version = "0.0.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+documentation.workspace = true
+categories.workspace = true
+keywords.workspace = true
+description = "Rust policy compiler that turns domain, IP, and application rules into platform-neutral network plans for the Lattice networking stack."
+readme = "README.md"
+
+[dependencies]
