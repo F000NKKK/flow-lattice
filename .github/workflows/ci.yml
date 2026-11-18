@@ -19,18 +19,20 @@ env:
 
 jobs:
   ci:
-    name: ci (${{ matrix.os }})
+    name: ci (${{ matrix.os }}, ${{ matrix.toolchain }})
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
+        toolchain: ['1.100', stable]
     steps:
       - uses: actions/checkout@v7
 
       - name: Install Rust
-        uses: dtolnay/rust-toolchain@stable
+        uses: dtolnay/rust-toolchain@master
         with:
+          toolchain: ${{ matrix.toolchain }}
           components: rustfmt, clippy
 
       - uses: Swatinem/rust-cache@v2.9.1

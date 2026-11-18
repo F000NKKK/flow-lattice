@@ -9,6 +9,8 @@ Rust policy compiler that turns domain, IP, and application rules into platform-
 [net-lattice](https://github.com/F000NKKK/net-lattice) — первого крейта
 экосистемы Lattice. Реализация ещё не начата, релизов не публиковалось.
 
+Для сборки текущей ветки требуется Rust 1.100 или новее.
+
 ## Экосистема Lattice
 
 Net Lattice и DNS Lattice выпустили стабильные версии 1.x; Tunnel Lattice

@@ -10,6 +10,8 @@ policies, and packaging scaffolding ported from
 Lattice networking ecosystem. No implementation code has landed yet and no
 version has been published.
 
+The development workspace requires Rust 1.100 or newer.
+
 ## The Lattice ecosystem
 
 Net Lattice and DNS Lattice have stable 1.x releases; Tunnel Lattice has
