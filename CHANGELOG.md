@@ -7,5 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0]
+
+- Initial placeholder release; the policy compiler is not implemented yet.
 - Raise the minimum supported Rust version to 1.100 and test it in CI.
 - Repository bootstrap: workflow, policies, and packaging scaffolding.

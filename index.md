@@ -45,7 +45,7 @@ once that design work happens.
 
 ## Current status
 
-No release has been published yet. There is no roadmap stage to report here;
+Version 0.1.0 is a placeholder. There is no roadmap stage to report here;
 see `CONTRIBUTING.md` and `SUPPORT.md` for current project status language.
 
 ## Useful commands

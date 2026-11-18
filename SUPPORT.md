@@ -12,5 +12,5 @@ Thank you for your interest in Flow Lattice.
 
 Flow Lattice is in the bootstrap stage: repository workflow, policies, and
 packaging scaffolding are in place, but no implementation code or public API
-exists yet, and no version has been published. Questions about direction and
-design are welcome; usage support will start once a first release ships.
+exists yet. The 0.1.0 package is a placeholder; questions about direction
+and design are welcome while the implementation is developed.

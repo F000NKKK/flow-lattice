@@ -2,9 +2,8 @@
 
 ## Supported Versions
 
-Flow Lattice has not published a release yet. There is no supported version line;
-security fixes will target the latest development state on `main` until a
-first release ships.
+Version 0.1.0 is a placeholder without a functional public API. Security fixes
+target the latest development state on `main`.
 
 ## Reporting a Vulnerability
 
