@@ -12,6 +12,10 @@ version has been published.
 
 ## The Lattice ecosystem
 
+Net Lattice and DNS Lattice have stable 1.x releases; Tunnel Lattice has
+published pre-1.0 releases. Flow Lattice and SDK Lattice remain bootstrap
+projects. See each repository for its current release and development status.
+
 | Crate | Purpose |
 | --- | --- |
 | [net-lattice](https://github.com/F000NKKK/net-lattice) | OS networking inspection and configuration (routes, DNS, interfaces) |

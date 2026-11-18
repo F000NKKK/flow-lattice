@@ -11,6 +11,10 @@ Rust policy compiler that turns domain, IP, and application rules into platform-
 
 ## Экосистема Lattice
 
+Net Lattice и DNS Lattice выпустили стабильные версии 1.x; Tunnel Lattice
+опубликован в версии до 1.0. Flow Lattice и SDK Lattice пока находятся на
+стадии инициализации. Актуальный статус указан в репозитории каждого проекта.
+
 | Крейт | Назначение |
 | --- | --- |
 | [net-lattice](https://github.com/F000NKKK/net-lattice) | Инспекция и настройка сетевого стека ОС (маршруты, DNS, интерфейсы) |
